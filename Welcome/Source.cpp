@@ -5,5 +5,6 @@ int main()
 	printf("This is my first repository.\n");
 	printf("Honestly, I'm really excited about this.\n");
 	printf("But thank you for visiting!\n");
+	printf("________________________\n");
 	return 0;
 }
